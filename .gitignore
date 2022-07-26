@@ -1,2 +1,6 @@
 # Ide files
 *.idea/
+
+
+# Pytest cache files
+*__pycache__/
